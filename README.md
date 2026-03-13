@@ -13,8 +13,7 @@
 [![](https://visitcount.itsvg.in/api?id=AnishDharu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile views](https://komarev.com/ghpvc/?username=AnishDharu&color=blue)<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
 AnishDharu/AnishDharu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
